@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🚀 Production-ready AI chat interface with zero external UI dependencies</h3>
   
-  [View Demo](https://effortless-jelly-0a9e72.netlify.app) • [Report Bug](https://github.com/yourusername/ai-chat-interface/issues) • [Request Feature](https://github.com/dipeshdarks/ai-chat-interface/issues)
+  [View Demo](https://effortless-jelly-0a9e72.netlify.app) • [Report Bug](https://github.com/dipeshdarks/ai-chat-interface/issues) • [Request Feature](https://github.com/dipeshdarks/ai-chat-interface/issues)
 </div>
 
 ## 🌟 Overview
