@@ -53,10 +53,10 @@ A modern, lightweight, and fully-featured AI chat interface built with React and
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-chat-interface.git
+git clone https://github.com/dipeshdarks/ai-chat-bot.git
 
 # Navigate to project directory
-cd ai-chat-interface
+cd ai-chat-bot
 
 # Install dependencies
 npm install
