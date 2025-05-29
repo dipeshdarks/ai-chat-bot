@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🚀 Production-ready AI chat interface with zero external UI dependencies</h3>
   
-  [View Demo](https://effortless-jelly-0a9e72.netlify.app) • [Report Bug](https://github.com/yourusername/ai-chat-interface/issues) • [Request Feature](https://github.com/yourusername/ai-chat-interface/issues)
+  [View Demo](https://effortless-jelly-0a9e72.netlify.app) • [Report Bug](https://github.com/yourusername/ai-chat-interface/issues) • [Request Feature](https://github.com/dipeshdarks/ai-chat-interface/issues)
 </div>
 
 ## 🌟 Overview
@@ -155,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/dipeshdarks/ai-chat-bot.git">ai bot chat</a></p>
   <p>
-    <a href="https://github.com/yourusername/ai-chat-interface/stargazers">⭐ Star us on GitHub</a> •
-    <a href="https://twitter.com/yourusername">🐦 Follow us on Twitter</a>
+    <a href="https://github.com/dipeshdarks/ai-chat-bot.git">⭐ Star us on GitHub</a> •
+    <a href="https://twitter.com/dipdarks">🐦 Follow us on Twitter</a>
   </p>
 </div>
